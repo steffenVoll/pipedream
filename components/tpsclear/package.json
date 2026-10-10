@@ -1,0 +1,18 @@
+{
+  "name": "@pipedream/tpsclear",
+  "version": "0.1.0",
+  "description": "Pipedream TPSClear Components",
+  "main": "tpsclear.app.mjs",
+  "keywords": [
+    "pipedream",
+    "tpsclear"
+  ],
+  "homepage": "https://pipedream.com/apps/tpsclear",
+  "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^3.4.0"
+  }
+}
